@@ -2,7 +2,7 @@
 
 Interactive Power BI dashboard analyzing customer churn patterns and quantifying revenue at risk for a subscription-style business.
 
-![Dashboard Preview](screenshots/executive_overview.png)
+![Dashboard Preview](executive_overview.png)
 
 ## Business Problem
 Subscription businesses lose revenue silently when at-risk customers churn without warning. This project identifies *who* is likely to churn, *why*, and *how much revenue* is at stake — so retention efforts can be targeted instead of blanket.
@@ -19,8 +19,7 @@ Customer_Churn_Revenue_Risk_Dashboard/
 ├── LICENSE
 ├── .gitignore
 ├── Customer_Churn_Revenue_Risk_Dashboard.pbix  
-└── screenshots/
-    └── executive_overview.png
+└──  executive_overview.png
 ```
 
 ## Dataset
